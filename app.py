@@ -1,26 +1,3 @@
-"""
-Student name(s): Mario Solis and Julian Navarro
-Student email(s): msolis@caltech.edu and jnavarro@caltech.edu
-High-level program overview
-
-******************************************************************************
-
-Some sections are provided as recommended program breakdowns, but are optional
-to keep, and you will probably want to extend them based on your application's
-features.
-
-specialization: player is goalkeeper XOR player is outfield player
-every symbol matters
-error handling makes UX nicer
-
-TODO:
-- For full credit, remove any irrelevant comments, which are included in the
-  template to help you get started. Replace this program overview with a
-  brief overview of your application as well (including your name/partners name).
-  This includes replacing everything in this *** section!
-******************************************************************************
-"""
-# TODO: Make sure you have these installed with pip3 if needed
 import sys  # to print error messages to sys.stderr
 import mysql.connector
 # To get error codes from the connector, useful for user-friendly
