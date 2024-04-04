@@ -1,4 +1,3 @@
-README -
 This is the final project for CS 121 Relational Databases at Caltech.
 The goal of the project was to create a database that facilitated searching
 for soccer players based on specific criteria. The database supports a
