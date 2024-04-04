@@ -50,12 +50,12 @@ or create your own account:
 
 The following managers are registered by default:
 
-    USERNAME | PASSWORD     | CLUB
-    msolis   | Pizza25      | Futbol Club Barcelona
-    jnavarro | Husky001     | Paris Saint-Germain Football Club
-    boliveir | EuropaChamps | Sevilla Fútbol Club S.A.D.
-    cgarrido | aguerooo     | Manchester City Football Club
-    rcrespo  | ynwa2024     | Liverpool Football Club
+USERNAME | PASSWORD     | CLUB
+msolis   | Pizza25      | Futbol Club Barcelona
+jnavarro | Husky001     | Paris Saint-Germain Football Club
+boliveir | EuropaChamps | Sevilla Fútbol Club S.A.D.
+cgarrido | aguerooo     | Manchester City Football Club
+rcrespo  | ynwa2024     | Liverpool Football Club
 
 Here is a suggested guide to using the client side:
 1. Select option [s] to find stats for an outfield player.
@@ -67,11 +67,11 @@ Here is a suggested guide to using the client side:
 6. Select option [q] to quit.
 
 Here is a suggested guide to using the admin side:
-    1. Select option [p] to change a manager's password.
-    2. Select option [m] to see currently signed up managers.
-    3. Select option [a] to add a new player to the database.
-    3. Select option [l] to go back to the login screen.
-    3. Select option [q] to quit.
+1. Select option [p] to change a manager's password.
+2. Select option [m] to see currently signed up managers.
+3. Select option [a] to add a new player to the database.
+3. Select option [l] to go back to the login screen.
+3. Select option [q] to quit.
 
 Files written to user's system:
 - No files are written to the user's system.
