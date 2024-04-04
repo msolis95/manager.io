@@ -18,28 +18,30 @@ device's command-line.
 
 First, enter MySQL:
 
-sudo mysql --local-infile=1
+    sudo mysql --local-infile=1
 
 Not including the "mysql>" prompt, run the following lines of code on your command-line
 to create an appropriate database in mySQL.
 
-mysql> CREATE DATABASE manageriodb;
-mysql> USE manageriodb;
-mysql> SOURCE setup-managerio.sql;
-mysql> quit;
+    mysql> CREATE DATABASE manageriodb;
+    mysql> USE manageriodb;
+    mysql> SOURCE setup-managerio.sql;
+    mysql> quit;
 
 If there are errors involving the load-data.sql file, run all of the previous lines one more time.
 
 Instructions for Python program:
 Please install the Python MySQL Connector using the following line if not installed already.
-$ pip install mysql-connector-python
+
+    $ pip install mysql-connector-python
 
 After loading the data and verifying you are in the correct database, 
 run the following to open the Python application:
 
-$ python3 app.py
+    $ python3 app.py
 
 For the admin side, please log in with the following credentials:
+
     username = managerio_admin
     password = messi#1
 
@@ -56,13 +58,13 @@ The following managers are registered by default:
     rcrespo  | ynwa2024     | Liverpool Football Club
 
 Here is a suggested guide to using the client side:
-    1. Select option [s] to find stats for an outfield player.
-    2. Select option [g] to find stats for an goalkeeper.
-    3. Select option [b] to find players within your budget.
-    4. Select option [n] to find players based on nationality.
-    4. Select option [a] to find players based on age.
-    5. Select option [p] to outfield players based on position.
-    6. Select option [q] to quit.
+1. Select option [s] to find stats for an outfield player.
+2. Select option [g] to find stats for an goalkeeper.
+3. Select option [b] to find players within your budget.
+4. Select option [n] to find players based on nationality.
+4. Select option [a] to find players based on age.
+5. Select option [p] to outfield players based on position.
+6. Select option [q] to quit.
 
 Here is a suggested guide to using the admin side:
     1. Select option [p] to change a manager's password.
@@ -75,4 +77,5 @@ Files written to user's system:
 - No files are written to the user's system.
 
 Unfinished features:
+
 - Making queries involving searching for multiple players at the same time.
