@@ -49,12 +49,12 @@ For the client side, please log in with the following user/passwords
 or create your own account:
 
 The following managers are registered by default:
-USERNAME | PASSWORD     | CLUB
-msolis   | Pizza25      | Futbol Club Barcelona
-jnavarro | Husky001     | Paris Saint-Germain Football Club
-boliveir | EuropaChamps | Sevilla Fútbol Club S.A.D.
-cgarrido | aguerooo     | Manchester City Football Club
-rcrespo  | ynwa2024     | Liverpool Football Club
+    USERNAME | PASSWORD     | CLUB
+    msolis   | Pizza25      | Futbol Club Barcelona
+    jnavarro | Husky001     | Paris Saint-Germain Football Club
+    boliveir | EuropaChamps | Sevilla Fútbol Club S.A.D.
+    cgarrido | aguerooo     | Manchester City Football Club
+    rcrespo  | ynwa2024     | Liverpool Football Club
 
 Here is a suggested guide to using the client side:
 1. Select option [s] to find stats for an outfield player.
