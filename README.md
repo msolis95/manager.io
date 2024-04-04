@@ -46,9 +46,10 @@ For the admin side, please log in with the following credentials:
     password = messi#1
 
 For the client side, please log in with the following user/passwords
-or create your own account:
+or create your own account.
 
 The following managers are registered by default:
+
     USERNAME | PASSWORD     | CLUB
     msolis   | Pizza25      | Futbol Club Barcelona
     jnavarro | Husky001     | Paris Saint-Germain Football Club
